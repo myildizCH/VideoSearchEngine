@@ -1,6 +1,7 @@
 # Video Search Engine
 
-This project uses YouTube API to search a video and then lets you watch in the same page. 
+This project uses YouTube API to search a video and then lets you watch in the same page. Visit the following link to view the app:
+https://videos-hooks-sooty-eight.vercel.app/
 
 ## Available Scripts
 
